@@ -32,7 +32,7 @@ const Home = () => {
         <Navbar toggleSidebar={toggleSidebar} />
 
         <div className="content mt-5 mx-5">
-          <Routes>
+          <Routes basename="/aanaBusiness">
             <Route path="/" element={<Dashboard />} />
             <Route path="/users-info" element={<Users />} />
             <Route path="/company-tree" element={<CompanyTree />} />

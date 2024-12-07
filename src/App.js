@@ -12,7 +12,7 @@ import Users from "./component/Users";
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/aanaBusiness">
         {/* <SignIn /> */}
         {/* <Home /> */}
         <Routes>
