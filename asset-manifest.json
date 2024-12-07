@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aanaBusiness/static/css/main.5af488c2.css",
-    "main.js": "/aanaBusiness/static/js/main.c6a0ee89.js",
+    "main.js": "/aanaBusiness/static/js/main.51900e50.js",
     "static/js/762.e4f38063.chunk.js": "/aanaBusiness/static/js/762.e4f38063.chunk.js",
     "static/js/557.09bdac77.chunk.js": "/aanaBusiness/static/js/557.09bdac77.chunk.js",
     "static/js/238.8a7f82f1.chunk.js": "/aanaBusiness/static/js/238.8a7f82f1.chunk.js",
@@ -19,7 +19,7 @@
     "static/media/primeicons.woff2": "/aanaBusiness/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/aanaBusiness/index.html",
     "main.5af488c2.css.map": "/aanaBusiness/static/css/main.5af488c2.css.map",
-    "main.c6a0ee89.js.map": "/aanaBusiness/static/js/main.c6a0ee89.js.map",
+    "main.51900e50.js.map": "/aanaBusiness/static/js/main.51900e50.js.map",
     "762.e4f38063.chunk.js.map": "/aanaBusiness/static/js/762.e4f38063.chunk.js.map",
     "557.09bdac77.chunk.js.map": "/aanaBusiness/static/js/557.09bdac77.chunk.js.map",
     "238.8a7f82f1.chunk.js.map": "/aanaBusiness/static/js/238.8a7f82f1.chunk.js.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.5af488c2.css",
-    "static/js/main.c6a0ee89.js"
+    "static/js/main.51900e50.js"
   ]
 }
