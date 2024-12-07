@@ -173,6 +173,7 @@ const Users = () => {
           if (userToDelete.length) {
             console.log(userToDelete);
             localStorage.setItem("users", JSON.stringify(userToDelete));
+            setUserdata(userToDelete);
             alert("User deleted successfully!");
           } else {
             alert("Failed to delete user!");
